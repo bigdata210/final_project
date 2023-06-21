@@ -44,9 +44,9 @@ if selected == "🏠 개요":
 # 링크
     st.markdown("<h2 style='font-size: 24px; color: #333333;'>🔗 링크</h2>", unsafe_allow_html=True)
     markdown_string = (
-        "[![GIT PAGE](https://img.shields.io/badge/tistory-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://sukyungjang.github.io/)\n"
-        "[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SukyungJang/Final_Project)\n"
-        "[![Microsoft PowerPoint](https://img.shields.io/badge/portfolio-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)]()\n"
+        "[![GIT PAGE](https://img.shields.io/badge/tistory-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://hi-210.tistory.com/)\n"
+        "[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bigdata210/final_project)\n"
+        "[![Microsoft PowerPoint](https://img.shields.io/badge/portfolio-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://flaxen-walker-75b.notion.site/c6eb4656eba44703ba3f828e8261fb90?pvs=4)\n"
         "[![YouTube](https://img.shields.io/badge/presentation-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()\n"
         "[![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows)\n"
         "[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)\n"
